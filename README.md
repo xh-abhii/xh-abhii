@@ -107,7 +107,7 @@ I'm not currently posting on a strict schedule, but the project represents an im
 * **Email:** [xh.abhiii@gmail.com](mailto:xh.abhiii@gmail.com)
 * **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-23a1a6417)
 * **Dev.to:** [@debuggingmylifee](https://dev.to/debuggingmylifee)
-* **Hashnode:** [@xh-abhii]((https://hashnode.com/@xh-abhii))
+* **Hashnode:** [@xh-abhii](https://hashnode.com/@xh-abhii)
 * **YouTube:** [What's Up Coders](https://youtube.com/@wucoders?si=WFJw6pXygMIQ_M6i)
 * **Instagram:** [@wucoders](https://www.instagram.com/wucoders?stkn=NnFiajl5NWVic2dq)
 * **WhatsApp Community:** [Join What's Up Coders](https://chat.whatsapp.com/FScr42K1yQQ9Q8r5SHeYtb)
